@@ -19,7 +19,7 @@ Between 2004-2016, independent political committees spent $4.8 billion on federa
 
 - **Top 10 committees controlled 38.4%** of all independent spending
 
-<img width="1774" height="969" alt="image_2026-02-22_00-59-50" src="https://github.com/user-attachments/assets/5b0915f7-f067-425e-8769-9d711b4d8066" />
+[<img width="1774" height="969" alt="image_2026-02-22_00-59-50" src="https://github.com/user-attachments/assets/5b0915f7-f067-425e-8769-9d711b4d8066" />](https://public.tableau.com/app/profile/andreykazakov/viz/IndependentPoliticalAdSpending2004-2016/Dashboard15)
 
 *How do independent organizations strategically spend money to influence elections across states, candidates, and election cycles?*
 
